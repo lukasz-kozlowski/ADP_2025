@@ -14,7 +14,7 @@ Update the table (today you need to fill at least the first two columns)
 | Surname Name | URL (github) | Project acronim | Other members |
 | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2024/blob/main/project/TBA/README.md) | all students |
-| Kowalski Jan |  |  |  |
+| Kowalski Janek |  |  |  |
 
 
  
