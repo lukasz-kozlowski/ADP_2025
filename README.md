@@ -14,7 +14,7 @@ Update the table (today you need to fill at least the first two columns)
 | Surname Name | URL (github) | Project acronim | Project full name | Other members |
 | --- | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2024/blob/main/project/TBA/README.md) |  To Be Announced | all students |
-| Dąbrowska Joanna | [D4S1](https://github.com/D4S1) | | | |
+| Dąbrowska Joanna | [D4S1](https://github.com/D4S1) | JAMS | Just Another Metadata Synthesis | Michał Stanowski, Anna Szymik, Stanislaw Golebiewski |
 | Dziewiatowski Mikolaj | [dziewiat](https://github.com/Dziewiat) | SM | | Kowalska Justyna, Paluch Agata, Swiatkowska Julia |
 | Makowski Ignacy | https://github.com/makowskiignacy/ADP25_JZI.git | | | Julia Szkóp, Zuzanna Milczarska|
 | Stanowski Michal | [michalstanowski](https://github.com/michalstanowski) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Anna Szymik, Stanislaw  Golebiewski |
