@@ -17,7 +17,7 @@ Update the table (today you need to fill at least the first two columns)
 | Dąbrowska Joanna | [D4S1](https://github.com/D4S1) | | | |
 | Dziewiatowski Mikolaj | [dziewiat](https://github.com/Dziewiat) | SM | | Kowalska Justyna, Paluch Agata, Swiatkowska Julia |
 | Makowski Ignacy | https://github.com/makowskiignacy/ADP25_JZI.git | | | Julia Szkóp, Zuzanna Milczarska|
-
+| Stanowski Michal | [michalstanowski](https://github.com/michalstanowski) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Anna Szymik, Stanislaw  Golebiewski |
 
  
 ### Task 2
