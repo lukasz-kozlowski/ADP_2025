@@ -18,7 +18,7 @@ Update the table (today you need to fill at least the first two columns)
 | Dziewiatowski Mikolaj | [dziewiat](https://github.com/Dziewiat) | SM | | Kowalska Justyna, Paluch Agata, Swiatkowska Julia |
 | Makowski Ignacy | https://github.com/makowskiignacy/ADP25_JZI.git | | | Julia Szkóp, Zuzanna Milczarska|
 | Stanowski Michal | [michalstanowski](https://github.com/michalstanowski) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Anna Szymik, Stanislaw  Golebiewski |
-
+| Kozlowska Oliwia | [oliwiakozlowska](https://github.com/oliwiakozlowska) | | | Barbara Pawlowska, Nikola Wiejak |
  
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
