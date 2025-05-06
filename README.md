@@ -15,6 +15,7 @@ Update the table (today you need to fill at least the first two columns)
 | --- | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2024/blob/main/project/TBA/README.md) |  To Be Announced | all students |
 | Dąbrowska Joanna | [D4S1](https://github.com/D4S1) | | | |
+| Dziewiatowski Mikolaj | [dziewiat](https://github.com/Dziewiat) | SM | | Kowalska Justyna, Paluch Agata, Swiatkowska Julia |
 
 
  
