@@ -15,10 +15,10 @@ Update the table (today you need to fill at least the first two columns)
 | --- | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2024/blob/main/project/TBA/README.md) |  To Be Announced | all students |
 | Dąbrowska Joanna | [D4S1](https://github.com/D4S1) | JAMS | Just Another Metadata Synthesis | Michał Stanowski, Anna Szymik, Stanislaw Golebiewski |
-| Dziewiatowski Mikolaj | [dziewiat](https://github.com/Dziewiat) | MutSigMA | Mutation Signature Multi-Analysis | Kowalska Justyna, Paluch Agata, Swiatkowska Julia |
-| Świątkowska Julia | [julx666](https://github.com/julx666) | MutSigMA | Mutation Signature Multi-Analysis | Dziewiatowski Mikolaj, Paluch Agata, Kowalska Justyna |
-| Kowalska Justyna | [kovi7](https://github.com/kovi7) | MutSigMA | Mutation Signature Multi-Analysis | Dziewiatowski Mikolaj, Paluch Agata, Świątkowska Julia |
-| Paluch Agata | [agatapaluch](https://github.com/agatapaluch) | MutSigMA | Mutation Signature Multi-Analysis | Kowalska Justyna, Swiatkowska Julia, Dziewiatowski Mikolaj |
+| Dziewiatowski Mikolaj | [dziewiat](https://github.com/Dziewiat) |  [MutSigMA](https://github.com/Dziewiat/MutSigMA) | Mutational Signatures Multi-Analysis  | Kowalska Justyna, Paluch Agata, Swiatkowska Julia |
+| Świątkowska Julia | [julx666](https://github.com/julx666) | [MutSigMA](https://github.com/Dziewiat/MutSigMA) | Mutational Signatures Multi-Analysis | Dziewiatowski Mikolaj, Paluch Agata, Kowalska Justyna |
+| Kowalska Justyna | [kovi7](https://github.com/kovi7) |  [MutSigMA](https://github.com/Dziewiat/MutSigMA) | Mutational Signatures Multi-Analysis | Dziewiatowski Mikolaj, Paluch Agata, Świątkowska Julia |
+| Paluch Agata | [agatapaluch](https://github.com/agatapaluch) |  [MutSigMA](https://github.com/Dziewiat/MutSigMA) | Mutational Signatures Multi-Analysis  | Kowalska Justyna, Swiatkowska Julia, Dziewiatowski Mikolaj |
 | Makowski Ignacy | [makowskiignacy](https://github.com/makowskiignacy) | ADP25_JZI | | Julia Szkóp, Zuzanna Milczarska|
 | Stanowski Michal | [michalstanowski](https://github.com/michalstanowski) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Anna Szymik, Stanislaw  Golebiewski |
 | Kozlowska Oliwia | [oliwiakozlowska](https://github.com/oliwiakozlowska) | | | Barbara Pawlowska, Nikola Wiejak |
