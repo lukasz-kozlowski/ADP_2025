@@ -21,7 +21,8 @@ Update the table (today you need to fill at least the first two columns)
 | Stanowski Michal | [michalstanowski](https://github.com/michalstanowski) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Anna Szymik, Stanislaw  Golebiewski |
 | Kozlowska Oliwia | [oliwiakozlowska](https://github.com/oliwiakozlowska) | | | Barbara Pawlowska, Nikola Wiejak |
 | Szymik Anna | [aszymik](https://github.com/aszymik) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
- 
+| Golebiewski Stanislaw | [StanGoleb](https://github.com/StanGoleb) | JAMS | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
+
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
 list the members and document the progress.
