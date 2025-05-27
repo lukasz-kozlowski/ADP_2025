@@ -21,7 +21,7 @@ Update the table (today you need to fill at least the first two columns)
 | Paluch Agata | [agatapaluch](https://github.com/agatapaluch) |  [MutSigMA](https://github.com/Dziewiat/MutSigMA) | Mutational Signatures Multi-Analysis  | Kowalska Justyna, Swiatkowska Julia, Dziewiatowski Mikolaj |
 | Makowski Ignacy | [makowskiignacy](https://github.com/makowskiignacy) | ADP25_JZI | | Julia Szkóp, Zuzanna Milczarska|
 | Stanowski Michal | [michalstanowski](https://github.com/michalstanowski) | [JAMS](https://github.com/aszymik/JAMS) | Just Another Metadata Synthesis | Joanna Dabrowska, Anna Szymik, Stanislaw  Golebiewski |
-| Kozlowska Oliwia | [oliwiakozlowska](https://github.com/oliwiakozlowska) | | | Barbara Pawlowska, Nikola Wiejak |
+| Kozlowska Oliwia | [oliwiakozlowska](https://github.com/oliwiakozlowska) | [SNP_explorer](https://github.com/oliwiakozlowska/SNP_explorer) | Single Nucleotide Polymorphisms Explorer| Barbara Pawlowska, Nikola Wiejak |
 | Szymik Anna | [aszymik](https://github.com/aszymik) | [JAMS](https://github.com/aszymik/JAMS) | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
 | Wiejak Nikola | [nwiejak](https://github.com/nwiejak) | | | Barbara Pawlowska, Oliwia Kozlowska| 
 | Golebiewski Stanislaw | [StanGoleb](https://github.com/StanGoleb) | [JAMS](https://github.com/aszymik/JAMS) | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
