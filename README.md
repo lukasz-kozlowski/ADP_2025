@@ -26,7 +26,7 @@ Update the table (today you need to fill at least the first two columns)
 | Wiejak Nikola | [nwiejak](https://github.com/nwiejak) | | | Barbara Pawlowska, Oliwia Kozlowska| 
 | Golebiewski Stanislaw | [StanGoleb](https://github.com/StanGoleb) | [JAMS](https://github.com/aszymik/JAMS) | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
 | Michal Zgieb | [Michal-Zgieb](https://github.com/Michal-Zgieb) | A/EAPIAW | AlphaFold3/ ESMFold API automating wrapper  | Katarzyna Dubrowska, Veranika Kananovich, Kacper Pietrzyk |
-| Pawlowska Barbara | [barbarapawlowskaa](https://github.com/barbarapawlowskaa) | | | Oliwia Kozlowska, Nikola Wiejak |
+| Pawlowska Barbara | [barbarapawlowskaa](https://github.com/barbarapawlowskaa) | [SNP_explorer](https://github.com/oliwiakozlowska/SNP_explorer) | Single Nucleotide Polymorphisms Explorer | Oliwia Kozlowska, Nikola Wiejak |
 | Kozaryna Zofia | [zgruba](https://github.com/zgruba) | [Visualisation Package for Magnetstein](https://github.com/BDomzal/magnetstein/) | Visualisation Package for Magnetstein | Kornel Natoński |
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
