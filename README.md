@@ -23,7 +23,7 @@ Update the table (today you need to fill at least the first two columns)
 | Stanowski Michal | [michalstanowski](https://github.com/michalstanowski) | [JAMS](https://github.com/aszymik/JAMS) | Just Another Metadata Synthesis | Joanna Dabrowska, Anna Szymik, Stanislaw  Golebiewski |
 | Kozlowska Oliwia | [oliwiakozlowska](https://github.com/oliwiakozlowska) | [SNP_explorer](https://github.com/oliwiakozlowska/SNP_explorer) | Single Nucleotide Polymorphisms Explorer| Barbara Pawlowska, Nikola Wiejak |
 | Szymik Anna | [aszymik](https://github.com/aszymik) | [JAMS](https://github.com/aszymik/JAMS) | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
-| Wiejak Nikola | [nwiejak](https://github.com/nwiejak) | | | Barbara Pawlowska, Oliwia Kozlowska| 
+| Wiejak Nikola | [nwiejak](https://github.com/nwiejak) | [SNP_explorer](https://github.com/oliwiakozlowska/SNP_explorer)| Barbara Pawlowska, Oliwia Kozlowska| 
 | Golebiewski Stanislaw | [StanGoleb](https://github.com/StanGoleb) | [JAMS](https://github.com/aszymik/JAMS) | Just Another Metadata Synthesis | Joanna Dabrowska, Michal Stanowski, Stanislaw  Golebiewski |
 | Michal Zgieb | [Michal-Zgieb](https://github.com/Michal-Zgieb) | A/EAPIAW | AlphaFold3/ ESMFold API automating wrapper  | Katarzyna Dubrowska, Veranika Kananovich, Kacper Pietrzyk |
 | Pawlowska Barbara | [barbarapawlowskaa](https://github.com/barbarapawlowskaa) | | | Oliwia Kozlowska, Nikola Wiejak |
