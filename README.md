@@ -29,7 +29,7 @@ Update the table (today you need to fill at least the first two columns)
 | Pawlowska Barbara | [barbarapawlowskaa](https://github.com/barbarapawlowskaa) | [SNP_explorer](https://github.com/oliwiakozlowska/SNP_explorer) | Single Nucleotide Polymorphisms Explorer | Oliwia Kozlowska, Nikola Wiejak |
 | Kozaryna Zofia | [zgruba](https://github.com/zgruba) | [Visualisation Package for Magnetstein](https://github.com/BDomzal/magnetstein/tree/visualization_package/visualization_package) | Visualisation Package for Magnetstein | Kornel Natoński |
 | Ryszard Kobiera | [RyszardKobiera]((https://github.com/RyszardKobiera)) | [ChemClusterPL](https://github.com/makowskiignacy/ChemClusterPL) | | Julia Szkóp, Zuzanna Milczarska, Ignacy Makowski|
-| Veranika Kananovich | [veranika-k](https://github.com/veranika-k) | Alphafolder |
+| Veranika Kananovich | [veranika-k](https://github.com/veranika-k) | [Alphafolder](https://github.com/Michal-Zgieb/ADP) | Katsiaryna Dubrouskaya, Kacper Pietrzyk, Michał Zgieb |
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
 list the members and document the progress.
